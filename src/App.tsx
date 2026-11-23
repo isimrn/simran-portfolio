@@ -45,7 +45,7 @@ export default function App() {
             <div>
               <h1 className="font-pixel text-base sm:text-xl text-[#F2E5D3]">
                 {PERSONAL_INFO.heroHeading}{' '}
-                <span className="text-[#D7AF67] font-sans text-sm sm:text-base font-medium">
+                <span className="text-[#D7AF67] font-pixel text-sm sm:text-base font-medium">
                   {PERSONAL_INFO.heroSupporting}
                 </span>
               </h1>
