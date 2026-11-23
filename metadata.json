@@ -1,0 +1,6 @@
+{
+  "name": "Simran's Little Universe",
+  "description": "Interactive isometric pixel-art portfolio of Simran — AI & Data Science student, developer, and creative thinker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
